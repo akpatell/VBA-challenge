@@ -19,5 +19,5 @@ Once the above script is successful for one sheet, the script is formatted to th
    Resources - This folder contains the "220624_Multiple_year_stock_data" Excel workbook as well as the VBA script "220624_alphabetical_testing_longlong" that was used      to run the script
     
    There will be two buttons upon openign the Excel workbook:
-        * "Click me to run the script!" - This will run the script for you
-        * "Click me to clear!" - This will clear the workbook contents for you
+        "Click me to run the script!" - This will run the script for you
+        "Click me to clear!" - This will clear the workbook contents for you
