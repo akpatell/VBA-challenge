@@ -16,4 +16,4 @@ Once the above script is successful for one sheet, the script is formatted to th
     
    There will be two buttons upon opening the Excel workbook:
         "Click me to run the script!" - This will run the script for you and 
-        "Click me to clear!" - This will clear the workbook contents for you
+        "Click me to clear!" - This will clear the workbook contents for you and the original file contents 
