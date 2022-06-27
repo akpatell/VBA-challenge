@@ -5,11 +5,7 @@ Module 2 Challenge
    This project is a demonstration of my Visual Basics skillset thus far in the Data Analytics certification program.
    The following are the objectives of this assignment:
     
-To create a script that loops through all the stocks for one year and outputs the following information:
-   The ticker symbol
-   Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year (for each set of stock ticker)
-   The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year (for each set of stock ticker)
-   The total stock volume of the stock (for each set of stock ticker)
+To create a script that loops through all the stocks for one year and outputs the following information: (1) The ticker symbol (2) Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year (for each set of stock ticker) (3) The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year (for each set of stock ticker) (4) The total stock volume of the stock (for each set of stock ticker)
     
 Once the above script is successful for one sheet, the script is formatted to then loop through all the three worksheets: 2018, 2019, 2020
 
